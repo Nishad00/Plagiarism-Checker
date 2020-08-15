@@ -1,0 +1,16 @@
+{
+  "name": "wt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.1.0",
+    "sal.js": "^0.6.3"
+  }
+}
